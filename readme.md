@@ -132,4 +132,4 @@ Power Management:off
 ---
 
 ## 🧩 Credits
-Fix documented and verified on **Fathom Design Systems Trident** by *Kyle Nyberg* (Inertia Cube project).
+Fix documented and verified on **inertia3d Trident** by *TheVoronModder* (Inertia Bro's project).
